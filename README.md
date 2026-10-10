@@ -28,9 +28,9 @@ React Native · Expo · Expo Router · TypeScript · AsyncStorage
 Escaneá el QR con la app Expo Go.
 
 ## Capturas
-![Horarios](screenshots/horarios.png)
-![Confirmar](screenshots/confirmar.png)
-![Mis turnos](screenshots/mis-turnos.png)
+![Horarios](screenshots/horarios.jpeg)
+![Confirmar](screenshots/confirmar.jpeg)
+![Mis turnos](screenshots/mis-turnos.jpeg)
 
 ## Próximos pasos
 Conectar `services/turnos.ts` con la API del sistema de turnos (NestJS + Supabase).
