@@ -1,7 +1,7 @@
 # Turnos Mobile
 
 App móvil de reserva de turnos hecha con React Native y Expo.
-Versión móvil del sistema de turnos online [link a tu web si está online].
+Versión móvil del sistema de turnos online [No disponible aun].
 
 > Los datos son locales (lista de horarios de ejemplo y reservas guardadas con
 > AsyncStorage). No está conectada al backend.
